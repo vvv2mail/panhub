@@ -259,4 +259,3 @@ provide('showToast', showToast);
   color: var(--text-primary);
 }
 </style>
-
